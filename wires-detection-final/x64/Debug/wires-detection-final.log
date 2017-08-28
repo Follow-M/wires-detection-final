@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\olya\_detectwires\wires-detection-final\wires-detection-final\source.cpp(247): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  wires-detection-final.vcxproj -> D:\Olya\_DetectWires\wires-detection-final\x64\Debug\wires-detection-final.exe
+  wires-detection-final.vcxproj -> D:\Olya\_DetectWires\wires-detection-final\x64\Debug\wires-detection-final.pdb (Full PDB)
